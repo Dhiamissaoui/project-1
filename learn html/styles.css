@@ -1,0 +1,15 @@
+nav{
+    display: inline;
+}
+body{
+    font-family:roboto ;
+    text-align: center;
+}
+.paraTwo{
+    color: red;
+}
+.para{
+    font-weight: bold;
+    font-size: italic;
+    text-align:center;
+}
